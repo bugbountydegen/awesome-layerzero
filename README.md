@@ -1,4 +1,4 @@
-# resource-hub
+# Awesome LayerZero
 Everything you need to know about LayerZero in one complete resource.
 
 ## Table of Contents
