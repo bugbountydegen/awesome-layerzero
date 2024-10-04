@@ -14,7 +14,6 @@ Everything you need to know about LayerZero in one complete resource.
 - [LayerZero V2: Explaining DVNs](https://medium.com/layerzero-official/layerzero-v2-explaining-dvns-02e08cce4e80)  
 - [Explaining the OFT Standard](https://medium.com/layerzero-official/explaining-the-oft-standard-310de5e84052)
 
-
 ## Developer Resources
 *Learn how to build with LayerZero.*
 
@@ -37,6 +36,12 @@ Everything you need to know about LayerZero in one complete resource.
 - [LayerZero V2 Documentation](https://docs.layerzero.network/v2)
 - [Supported Chains](https://docs.layerzero.network/v2/developers/evm/technical-reference/deployed-contracts)
 - [Supported DVNs](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses)
+- [Bridge UI Examples](https://examples.layerzero.network/bridge)
+
+### Protocols that Developers can utilize
+- [Testnet Bridge](https://testnetbridge.com/): Make Sepolia ETH more accessible for developers
+- [Gas.Zip](https://lz.gas.zip/): One-stop gas refuel bridge
+- [Stargate](https://stargate.finance/): Fully composable bridge, OFT Bridge
 
 ## Media Hub
 *Stay updated with latest news, recordings, interviews, and educational content.*
