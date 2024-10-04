@@ -31,7 +31,7 @@ Everything you need to know about LayerZero in one complete resource.
 
 ### Developer Support
 - [Discord Developer Channels](https://layerzero.network/community)
-- [LzCatalyst: Ecosystem Fund](https://info.layerzero.foundation/lzcatalyst-5f11ee16cc12)
+- [LzCatalyst: Access to significant capital and resources.](https://info.layerzero.foundation/lzcatalyst-5f11ee16cc12)
 
 ### Technical References
 - [LayerZero V2 Documentation](https://docs.layerzero.network/v2)
