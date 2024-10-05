@@ -42,6 +42,7 @@ Everything you need to know about LayerZero in one complete resource.
 - [Testnet Bridge](https://testnetbridge.com/): Make Sepolia ETH more accessible for developers
 - [Gas.Zip](https://lz.gas.zip/): One-stop gas refuel bridge
 - [Stargate](https://stargate.finance/): Fully composable bridge, OFT Bridge
+- [BEW:LZ Genie](https://layerzero.bcw.group/): A quickstart guide to help oApp teams leverage the LayerZero protocol for cross-chain interoperability
 
 ## Media Hub
 *Stay updated with latest news, recordings, interviews, and educational content.*
@@ -70,9 +71,14 @@ Everything you need to know about LayerZero in one complete resource.
 - [Usual: It's Time for Layer Twos](https://usual.money/blog/layerzero)
 - [defi.money: An Omnichain Protocol & Paradigm Shift](https://blog.defi.money/layerzero-strategic-partnership)
 - [BitGo: Making WBTC Natively Omnichain](https://blog.bitgo.com/making-wbtc-natively-omnichain-2922565290c6)
+- [EtherFi: Introducing Native L2 Restaking](https://medium.com/layerzero-ecosystem/introducing-native-l2-restaking-079edaa1804a)
+- [WOOFi: WOO adopts LayerZero's OFT standard in a strategic push to further maximize the token utility](https://woox.io/blog/woo-adopts-layerzeros-oft-standard-in-a-strategic-push-to-further-maximize-the-token-utility)
 
 ### Governance
 - [Aragon: Gasless Voting, Onchain](https://blog.aragon.org/gasless-voting-onchain/)
+
+### Enterprise
+- [IntellectEU: Solving Cross-Chain DvP Transactions](https://medium.com/layerzero-ecosystem/layerzero-labs-and-intellecteu-collaborate-to-solve-cross-chain-dvp-transactions-01555fe8372a)
 
 ## Community Highlights
 *Discover the creativity of community-driven initiatives.*
