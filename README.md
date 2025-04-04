@@ -36,7 +36,7 @@ Everything you need to know about LayerZero in one complete resource.
 - [LayerZero V2 Documentation](https://docs.layerzero.network/v2)
 - [Supported Chains](https://docs.layerzero.network/v2/developers/evm/technical-reference/deployed-contracts)
 - [Supported DVNs](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses)
-- [Bridge UI Examples](https://examples.layerzero.network/bridge)
+- [DevTools](https://github.com/LayerZero-Labs/devtools/tree/main)
 
 ### Protocols that Developers can utilize
 - [Testnet Bridge](https://testnetbridge.com/): Make Sepolia ETH more accessible for developers
