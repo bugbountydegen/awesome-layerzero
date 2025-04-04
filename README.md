@@ -25,8 +25,8 @@ Everything you need to know about LayerZero in one complete resource.
 - [LayerZero Scan](https://layerzeroscan.com)
 - [Mainnet Scan API](https://scan.layerzero-api.com/v1/swagger)
 - [Testnet Scan API](https://scan-testnet.layerzero-api.com/v1/swagger)
-- [CLI Toolkit Guide](https://docs.layerzero.network/v2/developers/evm/create-lz-oapp/start)
-- [Developer Utilities Repo](https://github.com/LayerZero-Labs/devtools/tree/fdfbdeadc1d6086f33cd5d935e24edc3c5a5ca63)
+- [Default Configs](https://testnet.layerzeroscan.com/tools/defaults)
+- [DevTools Repo](https://github.com/LayerZero-Labs/devtools/tree/main)
 
 ### Developer Support
 - [Discord Developer Channels](https://layerzero.network/community)
@@ -36,7 +36,6 @@ Everything you need to know about LayerZero in one complete resource.
 - [LayerZero V2 Documentation](https://docs.layerzero.network/v2)
 - [Supported Chains](https://docs.layerzero.network/v2/developers/evm/technical-reference/deployed-contracts)
 - [Supported DVNs](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses)
-- [DevTools](https://github.com/LayerZero-Labs/devtools/tree/main)
 
 ### Protocols that Developers can utilize
 - [Testnet Bridge](https://testnetbridge.com/): Make Sepolia ETH more accessible for developers
