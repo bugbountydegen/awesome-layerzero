@@ -10,6 +10,13 @@ Everything you need to know about LayerZero in one complete resource.
 
 ## Getting Started
 *LayerZero is the leading omnichain messaging protocol for a diverse set of crypto applications, including bridges, decentralized exchanges, games, tokens, and NFTs.*
+- [What is LayerZero?](https://docs.layerzero.network/v2/concepts/getting-started/what-is-layerzero)
+- [Protocol Overview](https://docs.layerzero.network/v2/concepts/protocol/protocol-overview)
+- [Workers Overview](https://docs.layerzero.network/v2/concepts/workers)
+- [Omnichain Apps](https://docs.layerzero.network/v2/concepts/applications/oapp-standard)
+- [Omnichain Tokens](https://docs.layerzero.network/v2/concepts/applications/oft-standard)
+- [Omnichain Composability](https://docs.layerzero.network/v2/concepts/applications/composer-standard)
+- [Omnichain Queries](https://docs.layerzero.network/v2/concepts/applications/read-standard)
 - [LayerZero V2 Deep Dive](https://medium.com/layerzero-official/layerzero-v2-deep-dive-869f93e09850)
 - [LayerZero V2: Explaining DVNs](https://medium.com/layerzero-official/layerzero-v2-explaining-dvns-02e08cce4e80)  
 - [Explaining the OFT Standard](https://medium.com/layerzero-official/explaining-the-oft-standard-310de5e84052)
