@@ -63,6 +63,7 @@ Everything you need to know about LayerZero in one complete resource.
 ### Videos & Podcasts
 
 - [Introducing V2](https://x.com/i/status/1751961057151840754)
+- [lzRead Overview](https://x.com/0xmitvh/status/1899501779102191761)
 - [LayerZero x EigenLayer: Why Crypto Needs Messaging and Economic Security](https://x.com/i/status/1841902959539409046)
 - [Aragon explains How its Gasless, Omnichain Voting product Works](https://x.com/LayerZero_Core/status/1839349146391904690)
 - [The best teams in crypto Build Omnichain.](https://x.com/i/status/1838956785635332151)
