@@ -43,6 +43,9 @@ Everything you need to know about LayerZero in one complete resource.
 - [Stargate](https://stargate.finance/): Fully composable bridge, OFT Bridge
 - [BEW:LZ Genie](https://layerzero.bcw.group/): A quickstart guide to help oApp teams leverage the LayerZero protocol for cross-chain interoperability
 
+### Ecosystem Data
+- [electric-capital's crypto ecosystem data](https://github.com/electric-capital/crypto-ecosystems/blob/master/data/ecosystems/l/layerzero.toml)
+
 ## Media Hub
 *Stay updated with latest news, recordings, interviews, and educational content.*
 
