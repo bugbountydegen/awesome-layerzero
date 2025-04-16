@@ -51,6 +51,8 @@ A few project idea starters, to give you some inspiration.
 
 ## 💰 Prizes & Bounties
 
+[Bounties for ETHGlobal Prague](https://ethglobal.com/events/prague/prizes#layerzero) (the nearest hackathon) are listed below.
+
 #### **lzRead Track - $4000**
 
 - 1st place - $2,500
