@@ -17,6 +17,7 @@ Everything you need to know about LayerZero in one complete resource.
 - [Omnichain Tokens](https://docs.layerzero.network/v2/concepts/applications/oft-standard)
 - [Omnichain Composability](https://docs.layerzero.network/v2/concepts/applications/composer-standard)
 - [Omnichain Queries](https://docs.layerzero.network/v2/concepts/applications/read-standard)
+- [LayerZero Blogs](https://layerzero.network/blog)
 - [LayerZero V2 Deep Dive](https://medium.com/layerzero-official/layerzero-v2-deep-dive-869f93e09850)
 - [LayerZero V2: Explaining DVNs](https://medium.com/layerzero-official/layerzero-v2-explaining-dvns-02e08cce4e80)  
 - [Explaining the OFT Standard](https://medium.com/layerzero-official/explaining-the-oft-standard-310de5e84052)
@@ -43,6 +44,8 @@ Everything you need to know about LayerZero in one complete resource.
 - [LayerZero V2 Documentation](https://docs.layerzero.network/v2)
 - [Supported Chains](https://docs.layerzero.network/v2/developers/evm/technical-reference/deployed-contracts)
 - [Supported DVNs](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses)
+- [LayerZero V2 WhitePaper](https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf)
+- [QMDB (Quick Merkle Database) WhitePaper](https://arxiv.org/pdf/2501.05262)
 
 ### Protocols that Developers can utilize
 - [Testnet Bridge](https://testnetbridge.com/): Make Sepolia ETH more accessible for developers
@@ -57,6 +60,16 @@ Everything you need to know about LayerZero in one complete resource.
 *Stay updated with latest news, recordings, interviews, and educational content.*
 
 ### BlogPosts  
+- [The lzRead Deep Dive](https://layerzero.network/blog/the-lzread-deep-dive)
+- [Interop Accelerates Crypto AI Agents](https://layerzero.network/blog/interop-accelerates-crypto-ai-agents)
+- [The Inevitable Future of Stablecoins](https://layerzero.network/blog/the-inevitable-future-of-stablecoins)
+- [Boyco: Let the Bera Eat](https://layerzero.network/blog/boyco-let-the-bera-eat)
+- [Industry Leaders Build with lzRead](https://layerzero.network/blog/industry-leaders-build-with-lzread)
+- [Introducing Native L2 Restaking](https://layerzero.network/blog/introducing-native-l2-restaking)
+- [11 Big Ideas to Build Omnichain](https://layerzero.network/blog/11-big-ideas-to-build-omnichain)
+- [LayerZero Labs and IntellectEU Collaborate to Solve Cross-Chain DvP Transactions](https://layerzero.network/blog/cross-chain-dvp)
+- [LayerZero Case Study: Clusters](https://layerzero.network/blog/layerzero-case-study-clusters)
+- [NFTs Go Omnichain With Tokenbound and LayerZero](https://layerzero.network/blog/nfts-go-omnichain-with-tokenbound-and-layerzero)
 - [LayerZero x EigenLayer: The CryptoEconomic DVN Framework](https://medium.com/layerzero-official/layerzero-x-eigenlayer-the-cryptoeconomic-dvn-framework-68af27ca2040)  
 - [LayerZero Labs x Initia Labs](https://medium.com/layerzero-official/layerzero-labs-x-initia-labs-6f9eca12659c)
 
@@ -71,17 +84,18 @@ Everything you need to know about LayerZero in one complete resource.
 - [How Omnichain WBTC Works](https://x.com/i/status/1835825474947199346)
 - [LayerZero Lounge: Glue Network](https://x.com/i/spaces/1mrxmMXAwkzxy)
 
-### Twitter Highlights
-
 ## Use Cases
 *Explore the real-world applications of LayerZero across various verticles.*  
 
-### DeFi
-- [Ozean: Revolutionize Cross-Chain Liquidity for RWAs](https://clearpool.medium.com/ozean-integrates-with-layerzero-to-revolutionize-cross-chain-liquidity-for-rwas-211b04c5f8de)
+### StableCoins
+- [Wyoming Stable Token Enters Critical Testing Phase](https://content.govdelivery.com/accounts/WYGOV/bulletins/3d8d97a)
+- [What is USDT0? USDT’s Omnichain Deployment, Explained](https://mirror.xyz/tetherzero.eth/ojA0QjankjDM14r0XqQ4YmhguKXKuaTs3m2JjbIznKc)
 - [Usual: It's Time for Layer Twos](https://usual.money/blog/layerzero)
+
+### Other DeFi
+- [Ozean: Revolutionize Cross-Chain Liquidity for RWAs](https://clearpool.medium.com/ozean-integrates-with-layerzero-to-revolutionize-cross-chain-liquidity-for-rwas-211b04c5f8de)
 - [defi.money: An Omnichain Protocol & Paradigm Shift](https://blog.defi.money/layerzero-strategic-partnership)
 - [BitGo: Making WBTC Natively Omnichain](https://blog.bitgo.com/making-wbtc-natively-omnichain-2922565290c6)
-- [EtherFi: Introducing Native L2 Restaking](https://medium.com/layerzero-ecosystem/introducing-native-l2-restaking-079edaa1804a)
 - [WOOFi: WOO adopts LayerZero's OFT standard in a strategic push to further maximize the token utility](https://woox.io/blog/woo-adopts-layerzeros-oft-standard-in-a-strategic-push-to-further-maximize-the-token-utility)
 
 ### Governance
@@ -107,6 +121,6 @@ Everything you need to know about LayerZero in one complete resource.
 - [MultiVault](https://ethglobal.com/showcase/multivault-o583a)
 - [Connector](https://ethglobal.com/showcase/connector-70emz)
 
-### Open Source Projects
+### Github Repos from Ecosystem Projects
 
 - [Paladin](https://github.com/JorgeAtPaladin/LayerZero-v2/tree/lz-upgrade)
