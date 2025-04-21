@@ -77,6 +77,7 @@ Everything you need to know about LayerZero in one complete resource.
 
 - [Introducing V2](https://x.com/i/status/1751961057151840754)
 - [lzRead Overview](https://x.com/0xmitvh/status/1899501779102191761)
+- [Interop Accelerates Solana](https://x.com/i/status/1882564551129825482)
 - [LayerZero x EigenLayer: Why Crypto Needs Messaging and Economic Security](https://x.com/i/status/1841902959539409046)
 - [Aragon explains How its Gasless, Omnichain Voting product Works](https://x.com/LayerZero_Core/status/1839349146391904690)
 - [The best teams in crypto Build Omnichain.](https://x.com/i/status/1838956785635332151)
@@ -99,28 +100,61 @@ Everything you need to know about LayerZero in one complete resource.
 - [WOOFi: WOO adopts LayerZero's OFT standard in a strategic push to further maximize the token utility](https://woox.io/blog/woo-adopts-layerzeros-oft-standard-in-a-strategic-push-to-further-maximize-the-token-utility)
 
 ### Governance
+- [USUAL has landed on Arbitrum](https://x.com/usualmoney/status/1909968292619731415)
 - [Aragon: Gasless Voting, Onchain](https://blog.aragon.org/gasless-voting-onchain/)
 
 ### Enterprise
 - [IntellectEU: Solving Cross-Chain DvP Transactions](https://medium.com/layerzero-ecosystem/layerzero-labs-and-intellecteu-collaborate-to-solve-cross-chain-dvp-transactions-01555fe8372a)
+
+### Github Repositories from Ecosystem Projects
+
+- [Abracadabra Money](https://github.com/Abracadabra-money/abracadabra-oft-v2)
+- [Angle](https://github.com/AngleProtocol/bridge-framework)
+- [Bonsai](https://github.com/onbonsai/bonsai-oft)
+- [CoreDAO](https://github.com/coredao-org/LZ-OFT-V2-Core-Guide)
+- [Curve](https://github.com/curvefi/gas-bridger)
+- [Degen](https://github.com/degen-token/degen-layerzero-evm-oft)
+- [EtherFi](https://github.com/etherfi-protocol/LayerZero-v2)
+- [Etherlink](https://github.com/etherlinkcom/OFTez)
+- [FraxFinance](https://github.com/FraxFinance/frax-oft-upgradeable)
+- [KelpDAO](https://github.com/Kelp-DAO/kelp-dao-lz)
+- [LevelFi](https://github.com/level-fi/level-layerzero)
+- [OORT](https://github.com/oort-tech/oort-layerzero-oft)
+- [Paladin](https://github.com/0xpaladinsecurity/zexecutor)
+- [StakeStone](https://github.com/stakestone/LayerZeroAdapter)
+- [Stargate](https://github.com/stargate-protocol/stargate-v2)
+- [TapiocaDAO](https://github.com/Tapioca-DAO/TapiocaZ)
+- [Telos](https://github.com/telosnetwork/telos-bridge)
+- [TraderJoe](https://github.com/traderjoe-xyz/layerzero-joe-token)
 
 ## Community Highlights
 *Discover the creativity of community-driven initiatives.*
 
 ### Hackathon Showcases
 
+ETHGlobal Bangkok 2024 - Best Omnichain Solutions
+- [ERC20 Unchained](https://ethglobal.com/showcase/erc20-unchained-ziaz1)
+- [FlashFi](https://ethglobal.com/showcase/flashfi-g27p4)
+- [BOO Market](https://ethglobal.com/showcase/boo-market-oekxo)
+
+ETHGloabal Bangkok 2024 - Best LayerZero Read
+- [METAINTENTS](https://ethglobal.com/showcase/metaintents-8kjr4)
+- [Solvnet](https://ethglobal.com/showcase/solvnet-rr87n)
+
+ETHGlobal San Francisco 2024 - Most Innovative Omnichain Solution
+- [Quark](https://ethglobal.com/showcase/quark-py5p4)
+- [LayerKit](https://ethglobal.com/showcase/layerkit-ksqw0)
+- [PowerAgents](https://ethglobal.com/showcase/power-agents-djqmb)
+
+ETHGlobal Singapore 2024 - Most Innovative Omnichain Solution
 - [JITLiq Network](https://ethglobal.com/showcase/jitliq-network-m2cw1)
 - [PageETH](https://ethglobal.com/showcase/pageeth-rcjiz)
+
+ETHOnline 2024 - Most Innovative Omnichain Solution
 - [OmniGas](https://ethglobal.com/showcase/omnigas-cqg1m)
 - [Membrane Finance](https://ethglobal.com/showcase/membrane-finance-qvq7k)
+
+ETHGlobal Brussels 2024 - Best Omnichain Implementation
 - [SyncSafe](https://ethglobal.com/showcase/syncsafe-dcrfk)
 - [liqu1tent](https://ethglobal.com/showcase/liqu1tent-5mctm)
-- [Omnichain zkERC20](https://ethglobal.com/showcase/omnichain-zkerc20-i6koo)
-- [Fill Me Up](https://ethglobal.com/showcase/fill-me-up-9u13c)
-- [NounsPilot](https://ethglobal.com/showcase/nounspilot-vyw3q)
-- [MultiVault](https://ethglobal.com/showcase/multivault-o583a)
-- [Connector](https://ethglobal.com/showcase/connector-70emz)
 
-### Github Repos from Ecosystem Projects
-
-- [Paladin](https://github.com/JorgeAtPaladin/LayerZero-v2/tree/lz-upgrade)
