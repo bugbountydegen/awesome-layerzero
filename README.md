@@ -63,6 +63,8 @@ Everything you need to know about LayerZero in one complete resource.
 - [The lzRead Deep Dive](https://layerzero.network/blog/the-lzread-deep-dive)
 - [Interop Accelerates Crypto AI Agents](https://layerzero.network/blog/interop-accelerates-crypto-ai-agents)
 - [The Inevitable Future of Stablecoins](https://layerzero.network/blog/the-inevitable-future-of-stablecoins)
+- [LayerZero on Gelato RaaS: Omnichain Interop](https://www.gelato.network/blog/layer-zero-on-gelato-raa-s-omnichain-interop)
+- [Today’s and Tomorrow’s Interop - LayerZero, Stargate, OFT](https://x.com/FourPillarsFP/status/1903008699410768093)
 - [Boyco: Let the Bera Eat](https://layerzero.network/blog/boyco-let-the-bera-eat)
 - [Industry Leaders Build with lzRead](https://layerzero.network/blog/industry-leaders-build-with-lzread)
 - [Introducing Native L2 Restaking](https://layerzero.network/blog/introducing-native-l2-restaking)
@@ -78,6 +80,10 @@ Everything you need to know about LayerZero in one complete resource.
 - [Introducing V2](https://x.com/i/status/1751961057151840754)
 - [lzRead Overview](https://x.com/0xmitvh/status/1899501779102191761)
 - [Interop Accelerates Solana](https://x.com/i/status/1882564551129825482)
+- [What is Berachain Proof of Liquidity](https://x.com/capnjackbearow/status/1904212628546666553)
+- [APT, SEI, and PLUME expand to Solana](https://x.com/LayerZero_Core/status/1902797330753130751)
+- [Paxos: Why Stablecoins Want to be on All the Chains](https://x.com/LayerZero_Core/status/1900230220176908631)
+- [What actually is LayerZero?](https://x.com/TokenizedPod/status/1902351854174175658)
 - [LayerZero x EigenLayer: Why Crypto Needs Messaging and Economic Security](https://x.com/i/status/1841902959539409046)
 - [Aragon explains How its Gasless, Omnichain Voting product Works](https://x.com/LayerZero_Core/status/1839349146391904690)
 - [The best teams in crypto Build Omnichain.](https://x.com/i/status/1838956785635332151)
@@ -91,6 +97,8 @@ Everything you need to know about LayerZero in one complete resource.
 ### StableCoins
 - [Wyoming Stable Token Enters Critical Testing Phase](https://content.govdelivery.com/accounts/WYGOV/bulletins/3d8d97a)
 - [What is USDT0? USDT’s Omnichain Deployment, Explained](https://mirror.xyz/tetherzero.eth/ojA0QjankjDM14r0XqQ4YmhguKXKuaTs3m2JjbIznKc)
+- [PayPal USD (PYUSD) Integrates LayerZero to Connect Across Chains](https://medium.com/layerzero-ecosystem/paypal-usd-pyusd-integrates-layerzero-to-connect-across-chains-enabling-seamless-transfers-cde9b242ecdf)
+- [Ondo Finance Goes Omnichain with LayerZero](https://medium.com/layerzero-ecosystem/ondo-finance-goes-omnichain-with-layerzero-a4a45f773c6d)
 - [Usual: It's Time for Layer Twos](https://usual.money/blog/layerzero)
 
 ### Other DeFi
