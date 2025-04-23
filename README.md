@@ -116,21 +116,24 @@ Everything you need to know about LayerZero in one complete resource.
 
 ### Github Repositories from Ecosystem Projects
 
-- [Abracadabra Money](https://github.com/Abracadabra-money/abracadabra-oft-v2)
-- [Angle](https://github.com/AngleProtocol/bridge-framework)
+Built on Endpoint V2:
 - [Bonsai](https://github.com/onbonsai/bonsai-oft)
-- [CoreDAO](https://github.com/coredao-org/LZ-OFT-V2-Core-Guide)
 - [Curve](https://github.com/curvefi/gas-bridger)
-- [Degen](https://github.com/degen-token/degen-layerzero-evm-oft)
 - [EtherFi](https://github.com/etherfi-protocol/LayerZero-v2)
-- [Etherlink](https://github.com/etherlinkcom/OFTez)
 - [FraxFinance](https://github.com/FraxFinance/frax-oft-upgradeable)
 - [KelpDAO](https://github.com/Kelp-DAO/kelp-dao-lz)
-- [LevelFi](https://github.com/level-fi/level-layerzero)
 - [OORT](https://github.com/oort-tech/oort-layerzero-oft)
 - [Paladin](https://github.com/0xpaladinsecurity/zexecutor)
 - [StakeStone](https://github.com/stakestone/LayerZeroAdapter)
 - [Stargate](https://github.com/stargate-protocol/stargate-v2)
+
+Built on Endpoint V1:
+- [Abracadabra Money](https://github.com/Abracadabra-money/abracadabra-oft-v2)
+- [Angle](https://github.com/AngleProtocol/bridge-framework)
+- [CoreDAO](https://github.com/coredao-org/LZ-OFT-V2-Core-Guide)
+- [Degen](https://github.com/degen-token/degen-layerzero-evm-oft)
+- [Etherlink](https://github.com/etherlinkcom/OFTez)
+- [LevelFi](https://github.com/level-fi/level-layerzero)
 - [TapiocaDAO](https://github.com/Tapioca-DAO/TapiocaZ)
 - [Telos](https://github.com/telosnetwork/telos-bridge)
 - [TraderJoe](https://github.com/traderjoe-xyz/layerzero-joe-token)
