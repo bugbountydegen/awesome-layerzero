@@ -97,6 +97,27 @@ This track rewards creative and well-executed projects that demonstrate the powe
 
 Examples of past hackathon projects built with LayerZero:
 
+ETHGlobal Cannes 2025 Best Omnichain Interaction
+- [XPayr](https://ethglobal.com/showcase/xpayr-b5vwy)
+- [Fluxo](https://ethglobal.com/showcase/fluxo-ceu6a)
+- [RWALink](https://ethglobal.com/showcase/rwalink-4nyfv)
+
+ETHGlobal Cannes 2025 Best Omnichain DeFi Primitive
+- [Omakase Protocol](https://ethglobal.com/showcase/omakase-protocol-3prsj)
+- [PPTP](https://ethglobal.com/showcase/pptp-2onr3)
+
+ETHGlobal Prague 2025 lzRead Track
+- [Goldman Stacked](https://ethglobal.com/showcase/goldman-stacked-xr505)
+- [:bitogochi](https://ethglobal.com/showcase/bitogochi-bcvx9)
+
+ETHGlobal Prague 2025 Composibility Track
+- [Remote](https://ethglobal.com/showcase/remote-913v9)
+- [OmniBet](https://ethglobal.com/showcase/omnibet-m5eu9)
+
+ETHGlobal Prague 2025 General Track
+- [OneVault](https://ethglobal.com/showcase/onevault-bh8qp)
+- [StreamAid](https://ethglobal.com/showcase/streamaid-nm473)
+
 ETHGlobal Bangkok 2024 - Best Omnichain Solutions
 - [ERC20 Unchained](https://ethglobal.com/showcase/erc20-unchained-ziaz1)
 - [FlashFi](https://ethglobal.com/showcase/flashfi-g27p4)
