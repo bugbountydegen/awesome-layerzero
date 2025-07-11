@@ -30,11 +30,12 @@ Everything you need to know about LayerZero in one complete resource.
 - [Solana Breakpoint 2024: Build Omnichain Programs](https://www.youtube.com/watch?v=dovDQIuhqbc)   
 
 ### Tools
+- [DevTools Repo](https://github.com/LayerZero-Labs/devtools/tree/main)
 - [LayerZero Scan](https://layerzeroscan.com)
 - [Mainnet Scan API](https://scan.layerzero-api.com/v1/swagger)
 - [Testnet Scan API](https://scan-testnet.layerzero-api.com/v1/swagger)
-- [Default Configs](https://testnet.layerzeroscan.com/tools/defaults)
-- [DevTools Repo](https://github.com/LayerZero-Labs/devtools/tree/main)
+- [OFT API](https://docs.layerzero.network/v2/tools/api/oft-reference)
+- [Default Configs](https://layerzeroscan.com/tools/defaults)
 
 ### Developer Support
 - [Discord Developer Channels](https://layerzero.network/community)
@@ -42,16 +43,17 @@ Everything you need to know about LayerZero in one complete resource.
 
 ### Technical References
 - [LayerZero V2 Documentation](https://docs.layerzero.network/v2)
-- [Supported Chains](https://docs.layerzero.network/v2/developers/evm/technical-reference/deployed-contracts)
-- [Supported DVNs](https://docs.layerzero.network/v2/developers/evm/technical-reference/dvn-addresses)
+- [Supported Chains](https://docs.layerzero.network/v2/deployments/deployed-contracts)
+- [Supported Read Channels](https://docs.layerzero.network/v2/deployments/read-contracts)
+- [Supported DVNs](https://docs.layerzero.network/v2/deployments/dvn-addresses)
 - [LayerZero V2 WhitePaper](https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf)
 - [QMDB (Quick Merkle Database) WhitePaper](https://arxiv.org/pdf/2501.05262)
+- [Fast Ahead-of-Formation Optimization (FAFO) WhitePaper](https://layerzero.network/publications/FAFO_Whitepaper.pdf)
 
 ### Protocols that Developers can utilize
 - [Testnet Bridge](https://testnetbridge.com/): Make Sepolia ETH more accessible for developers
 - [Gas.Zip](https://lz.gas.zip/): One-stop gas refuel bridge
 - [Stargate](https://stargate.finance/): Fully composable bridge, OFT Bridge
-- [BEW:LZ Genie](https://layerzero.bcw.group/): A quickstart guide to help oApp teams leverage the LayerZero protocol for cross-chain interoperability
 
 ### Ecosystem Data
 - [electric-capital's crypto ecosystem data](https://github.com/electric-capital/crypto-ecosystems/blob/master/data/ecosystems/l/layerzero.toml)
@@ -59,7 +61,10 @@ Everything you need to know about LayerZero in one complete resource.
 ## Media Hub
 *Stay updated with latest news, recordings, interviews, and educational content.*
 
-### BlogPosts  
+### BlogPosts
+- [Deutsche Telekom MMS Joins LayerZero as DVN to Secure Cross-chain Transactions](https://layerzero.network/blog/deutsche-telekom-mms-joins-layerzero-as-dvn)
+- [LayerZero Integrated by Fireblocks for Tokenization Engine](https://layerzero.network/blog/layerzero-fireblocks-tokenization)  
+- [Introducing The Hyperliquid Bridge](https://layerzero.network/blog/introducing-the-hyperliquid-bridge)
 - [The lzRead Deep Dive](https://layerzero.network/blog/the-lzread-deep-dive)
 - [Interop Accelerates Crypto AI Agents](https://layerzero.network/blog/interop-accelerates-crypto-ai-agents)
 - [The Inevitable Future of Stablecoins](https://layerzero.network/blog/the-inevitable-future-of-stablecoins)
@@ -142,6 +147,27 @@ Built on Endpoint V1:
 *Discover the creativity of community-driven initiatives.*
 
 ### Hackathon Showcases
+
+ETHGlobal Cannes 2025 Best Omnichain Interaction
+- [XPayr](https://ethglobal.com/showcase/xpayr-b5vwy)
+- [Fluxo](https://ethglobal.com/showcase/fluxo-ceu6a)
+- [RWALink](https://ethglobal.com/showcase/rwalink-4nyfv)
+
+ETHGlobal Cannes 2025 Best Omnichain DeFi Primitive
+- [Omakase Protocol](https://ethglobal.com/showcase/omakase-protocol-3prsj)
+- [PPTP](https://ethglobal.com/showcase/pptp-2onr3)
+
+ETHGlobal Prague 2025 lzRead Track
+- [Goldman Stacked](https://ethglobal.com/showcase/goldman-stacked-xr505)
+- [:bitogochi](https://ethglobal.com/showcase/bitogochi-bcvx9)
+
+ETHGlobal Prague 2025 Composibility Track
+- [Remote](https://ethglobal.com/showcase/remote-913v9)
+- [OmniBet](https://ethglobal.com/showcase/omnibet-m5eu9)
+
+ETHGlobal Prague 2025 General Track
+- [OneVault](https://ethglobal.com/showcase/onevault-bh8qp)
+- [StreamAid](https://ethglobal.com/showcase/streamaid-nm473)
 
 ETHGlobal Bangkok 2024 - Best Omnichain Solutions
 - [ERC20 Unchained](https://ethglobal.com/showcase/erc20-unchained-ziaz1)
